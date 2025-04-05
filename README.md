@@ -1,4 +1,4 @@
-# This bot is no longer functional, please refer to the [Lorekeeper 2]() project instead
+# This bot is no longer functional, please refer to the [Lorekeeper Rust](https://github.com/AndyBhokal/lorekeeper-rust) project instead
 
 # Lorekeeper
 ## About
