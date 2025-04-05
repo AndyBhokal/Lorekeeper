@@ -1,0 +1,11 @@
+Achievement $ ;achievement <name> or ;ach <name> $ Searches for a given achievement and displays its information.
+Add $ ;add <message> $ Adds a message to the Logs.
+Edit $ ;edit <New Message> $ Overwrites the last message sent with the new message.
+End $ ;end $ Stops accepting entries to the Logs. Sends Logs to the Specified channel.
+Help $ ;help <command> $ Displays the name, format and description of <command>. If the command has multiple uses, help displays all formats and a description of what each format does. $ ;help $ Sends a private message to the sender with a list of all commands.
+Nick $ ;nick <New Nickname> $ Changes the name that the bot associates with the user.
+Remove $ ;remove $ Removes the last message sent from the Logs.
+Start $ ;start $ Begins accepting entries for the Logs.
+Undo $ ;undo $ Undoes the previous action.
+Whoami $ ;whoami $ Sends a message with the user's name.  
+Whois $ ;whois <@mention> $ Sends a message with the mentioned user's name.
